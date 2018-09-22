@@ -108,7 +108,7 @@ AICoreSDK is a simple part for iOS development,it based on AVOS and JGPush.
   # spec.resources = "Resources/*.png"
 
   # spec.preserve_paths = "FilesToSave", "MoreFilesToSave"
-  s.vendored_libraries = "libAICoreSDK.a"
+  spec.vendored_libraries = "libAICoreSDK.a"
 
   # ――― Project Linking ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
   #
