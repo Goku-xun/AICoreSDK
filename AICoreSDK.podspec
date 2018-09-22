@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "AICoreSDK"
   spec.version      = "0.0.1"
-  spec.summary      = "AICoreSDK is a simple part for iOS development."
+  spec.summary      = "AICoreSDK is a very simple unreal bridge to connect two worlds"
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
@@ -25,7 +25,7 @@ Pod::Spec.new do |spec|
   #   * Write the description between the DESC delimiters below.
   #   * Finally, don't worry about the indent, CocoaPods strips it!
   spec.description  = <<-DESC
-AICoreSDK is a simple part for iOS development,it based on AVOS and JGPush.
+AICoreSDK is a very simple unreal bridge to connect two worlds,it based on AVOS and JGPush.
                    DESC
 
   spec.homepage     = "https://github.com/CheckNill/AICoreSDK.git"
